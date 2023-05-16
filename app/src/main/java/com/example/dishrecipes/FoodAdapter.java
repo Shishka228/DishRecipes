@@ -31,6 +31,7 @@ public class FoodAdapter {
             foodView = view.findViewById(R.id.foodResource);
             nameView = view.findViewById(R.id.name);
             ingredientsView = view.findViewById(R.id.ingredients);
+            neqeqeabsmncbmdanc
         }
     }
 
